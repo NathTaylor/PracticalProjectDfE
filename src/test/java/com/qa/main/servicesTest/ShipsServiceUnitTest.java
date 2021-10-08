@@ -90,11 +90,19 @@ public class ShipsServiceUnitTest {
 		Mockito.verify(this.repo, Mockito.times(2)).existsById(input);
 	}
 	
+	@Test(expected = Exception.class)
+	public void removeShipTestFail() throws Exception {
+		Long input = 1L;
+				
+		Mockito.when(this.repo.existsById(input)).thenReturn(false);
+		
+		this.service.removeShip(input);
+		
 	
 	
 	
 	
-	
+	}
 	
 	
 }
