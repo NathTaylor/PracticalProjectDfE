@@ -5,13 +5,16 @@
 We are doing this to show our knowledge of all the topics we have covered so far from Agile fundamentals all the way up to Java and Spring Boot API creation.
 
 **How I expected the challenge to go.**
+
 I was worried that I wouldnt be able to complete the challenge as I wasn't able to attend the week of the Spring Boot material due to being ill.
 
 **What went well? / What didn't go as planned?**
+
 I managed to catch up really well considering I was unavailable for the Spring Boot lectures and I managed to get most of it working by myself.
 Things that didn't go as planned were mostly silly little oversights for things like dependencies or missing annotations for @Test etc.
 
 **Possible improvements for future revisions of the project.**
+
 If I were to do this project again I would finish a lot faster which would give me time to look into the stretch goals as part of the final project submitted.
 I intend to have a go at adding some of these in over the following weekend.
 
