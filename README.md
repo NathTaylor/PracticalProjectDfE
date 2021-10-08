@@ -18,6 +18,11 @@ Things that didn't go as planned were mostly silly little oversights for things 
 If I were to do this project again I would finish a lot faster which would give me time to look into the stretch goals as part of the final project submitted.
 I intend to have a go at adding some of these in over the following weekend.
 
+**Link to Jira Board**
+
+https://n-tay.atlassian.net/jira/software/projects/PPD/boards/1
+
+
 #Screenshots showing your postman requests and the output from the API.
 
 
